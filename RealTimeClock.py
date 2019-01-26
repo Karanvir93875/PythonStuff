@@ -1,3 +1,5 @@
+#This is a program which provides a close to accurate representation of real time
+
 import os #clear screen functioning
 import time
 
@@ -24,4 +26,3 @@ while run.lower() == "x":
 	print(hours, ":" , minutes, ":", seconds)
 	time.sleep(.1) 
 	#will suspend execution for approximately .1 seconds	
-	#provides an accurate representation of real time
