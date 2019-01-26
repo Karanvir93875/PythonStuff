@@ -10,3 +10,5 @@ while breaks_count < num_breaks:
 	webbrowser.open( "https://www.youtube.com/watch?v=cf3lgs_fFnM")
 	breaks_count = breaks_count+1
 	
+#About every 10 seconds, the counter automatically makes 
+#the user "Take a break" and redirects to the given youtube link
